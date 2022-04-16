@@ -9,7 +9,7 @@ public class GitSubhrajitSahooApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitSubhrajitSahooApplication.class, args);
 
-    String str = "Rani";
+                String str = "Rani";
 		String str = "Raja";
 
 	}
