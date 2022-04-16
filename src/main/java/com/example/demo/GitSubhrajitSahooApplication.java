@@ -10,7 +10,8 @@ public class GitSubhrajitSahooApplication {
 		SpringApplication.run(GitSubhrajitSahooApplication.class, args);
 
                 String str = "Rani";
-		String str = "Raja";
+				String str = "Raja";
+				String str = "Hi";
 
 	}
 
