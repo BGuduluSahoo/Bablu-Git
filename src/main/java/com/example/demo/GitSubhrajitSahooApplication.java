@@ -9,9 +9,10 @@ public class GitSubhrajitSahooApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitSubhrajitSahooApplication.class, args);
 
-                String str = "Rani";
+        String str = "Rani";
 				String str = "Raja";
 				String str = "Hi102000";
+				String str = "Hi102";
 
 	}
 
