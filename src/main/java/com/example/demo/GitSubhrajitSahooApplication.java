@@ -12,7 +12,7 @@ public class GitSubhrajitSahooApplication {
         String str = "Rani";
 				String str = "Raja";
 				String str = "Hi102000";
-				String str = "Jay";
+				String str = "Jay1";
 
 	}
 
